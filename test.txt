@@ -1,2 +1,1 @@
-Practice makes perfect
-This is a second change
+Git intro part 2
